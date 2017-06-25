@@ -3,7 +3,23 @@ Introductory Repository
 
 Hello world.
 
-My name is Essa Khan. As of now, I am a junior in High School and I am planning on majoring in Computer Science when I go to college. 
-I had taken a computer programing with problem solving class last year and I am taking an Advanced Placement Computer Science class this
-year! In the computer programing with problem solving class I learned how to use the language C#. In the Advanced Placement Computer
-Science class I am learning the language of Java.
+My name is Essa Khan. I am an arising senior in High School and I am anticipating in majoring in Computer Science.
+
+----------
+Experience 
+----------
+Advanced Placement Computer Science 
+-Developed useful computer programs with the language of Java
+-Introduced to the development and analysis of algorithms and typical applications
+-Enhanced the knowledge on the development and use of fundamental data structures
+
+Problem Solving with Computer Programming 
+-Developed useful computer programs with the language of C#
+-Proficient in the fundamentals of computer programming focused on developing problem solving skills
+-Included coursework of written assignments, computer lab activities, and programming projects
+-Provided preparation for first-year university level programming classes
+
+Introduction to Engineering Design 
+-Applied computer models of product solutions using a design development process
+-Analyzed and communicated solid modeling computer design software
+-Operated computer models with Autodesk Inventor Professional
