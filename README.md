@@ -1,5 +1,4 @@
 # hello-world
-About Me
 
 Hello world.
 
